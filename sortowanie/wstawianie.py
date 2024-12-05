@@ -1,3 +1,9 @@
+# Sortowanie przez wstawianie (Insertion Sort):
+# Działanie: Iteracyjnie wstawia każdy element w odpowiednie miejsce w posortowanej części listy.
+# Złożoność:
+        #Czasowa: O(n²) w najgorszym przypadku, O(n) w najlepszym.
+        #Pamięciowa: O(1).
+
 def sortowanie_przez_wstawianie():
     for i in range(len(tablica)):
         klucz = tablica[i]

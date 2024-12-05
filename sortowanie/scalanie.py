@@ -1,3 +1,9 @@
+# Sortowanie przez scalanie (Merge Sort):
+# Działanie: Dzieli listę na mniejsze części, sortuje je, a następnie łączy.
+# Złożoność:
+  #      Czasowa: O(n log n) w każdym przypadku.
+   #     Pamięciowa: O(n).
+
 def scal(tablica, lewy, srodek, prawy):
     rozmiar1 = srodek-lewy+1
     rozmiar2 = prawy-srodek

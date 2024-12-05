@@ -1,5 +1,8 @@
-
-# Złożoność obliczeniowa równa O(i^2).
+# Sortowanie bąbelkowe (Bubble Sort):
+# Działanie: Przechodzi przez listę, porównując i zamieniając sąsiednie elementy, aż lista jest posortowana.
+# Złożoność:
+ #       Czasowa: O(n²).
+  #      Pamięciowa: O(1).
 def sortowanie_babelkowe(tablica):
     for i in range(len(tablica)):
         for j in range(1, len(tablica) - i):
