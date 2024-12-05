@@ -1,6 +1,3 @@
-from turtledemo.penrose import start
-
-
 class SortowaniePrzezWybieranie:
     def __init__(self):
         self.tablica=[]
