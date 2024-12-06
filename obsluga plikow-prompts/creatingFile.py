@@ -1,5 +1,5 @@
 import os
-file_name='datastring.txt'
+file_name= 'datas/datastring.txt'
 
 if os.path.exists(file_name):
     os.remove(file_name)

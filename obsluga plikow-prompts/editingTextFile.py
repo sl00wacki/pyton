@@ -51,8 +51,8 @@ def zapisz_zmiany(sciezka_wyjscia, zawartosc):
 # Główna część programu
 if __name__ == "__main__":
     # Ścieżka do pliku
-    sciezka = 'dataString.txt'
-    nowy_plik = 'zmodyfikowany_tekst.txt'
+    sciezka = 'datas/datastring.txt'
+    nowy_plik = 'datas/modifieddatastring.txt'
 
     # Odczyt zawartości pliku
     zawartosc = odczytaj_plik(sciezka)
