@@ -8,7 +8,7 @@ def odczytaj_plik(sciezka):
 # Funkcja 2: Znajdź wyraz "funkcja"
 def znajdz_wyraz(zawartosc, wyraz):
     tekst = "".join(zawartosc)
-    return len(re.findall(rf'\b{wyraz}\b', tekst, flags=re.IGNORECASE))  # Dokładne dopasowanie słowa
+    return len(re.findall(rf'\b{wyraz}\b', tekst, flags=re.IGNORECASE))
 
 # Funkcja 3: Znajdź linie z wyrazem "funkcja"
 def linie_z_wyrazem(zawartosc, wyraz):
