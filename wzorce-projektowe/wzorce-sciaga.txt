@@ -1,0 +1,29 @@
+Wzorce kreacyjne:
+
+    Factory Method (Metoda fabryczna): Umożliwia tworzenie obiektów bez określania dokładnej klasy tworzonych obiektów. Przydatny, gdy typ obiektu jest znany dopiero w czasie działania programu
+    Abstract Factory (Abstrakcyjna fabryka): Zapewnia interfejs do tworzenia rodzin powiązanych lub zależnych obiektów bez określania ich konkretnych klas
+    Builder (Budowniczy): Rozdziela proces tworzenia skomplikowanego obiektu od jego reprezentacji, umożliwiając tworzenie różnych wersji tego samego obiektu
+    Prototype (Prototyp): Tworzy nowe obiekty przez kopiowanie istniejącego obiektu, co jest przydatne, gdy utworzenie nowego obiektu jest kosztowne
+    Singleton (Singleton): Zapewnia, że dana klasa ma tylko jedną instancję i globalny punkt dostępu do niej
+
+Wzorce strukturalne:
+
+    Adapter (Adapter): Umożliwia współpracę niekompatybilnych interfejsów, tworząc warstwę pośrednią, która tłumaczy jeden interfejs na inny
+    Bridge (Most): Oddziela abstrakcję od jej implementacji, umożliwiając niezależny rozwój obu
+    Composite (Kompozyt): Traktuje pojedyncze obiekty i ich kompozycje w sposób jednolity, przydatny w strukturach drzewa
+    Decorator (Dekorator): Dodaje nową funkcjonalność do obiektów w sposób dynamiczny, bez zmiany ich struktury
+    Facade (Fasada): Ułatwia dostęp do złożonego subsystemu, ukrywając jego szczegóły przed użytkownikiem
+    Flyweight (Lekki): Oszczędza pamięć poprzez współdzielenie części obiektów, szczególnie przy obiektach często używanych
+    Proxy (Pełnomocnik): Działa jako zastępstwo dla innego obiektu, kontrolując dostęp do niego
+
+Wzorce behawioralne:
+
+    Chain of Responsibility (Łańcuch odpowiedzialności): Pozwala na przekazywanie żądań wzdłuż łańcucha obiektów, gdzie każdy z nich może je obsłużyć lub przekazać dalej
+    Command (Polecenie): Umożliwia zamknięcie żądania w obiekcie, co pozwala na parametryzowanie klientów z różnymi żądaniami
+    Interpreter (Interpreter): Definiuje gramatykę dla interpretacji zdań w języku i zapewnia interpreter tej gramatyki
+    Iterator (Iterator): Umożliwia sekwencyjne przechodzenie przez elementy kolekcji, bez ujawniania jej wewnętrznej reprezentacji
+    Mediator (Mediator): Definiuje obiekt, który kontroluje interakcje między obiektami, zmniejszając ich wzajemne zależności
+    Memento (Memento): Zapisuje stan obiektu, aby móc później przywrócić go do tego samego stanu
+    Observer (Obserwator): Pozwala obiektowi (subiektowi) powiadomić zależne obiekty (obserwatorów) o zmianach swojego stanu
+    State (Stan): Pozwala obiektowi zmieniać swoje zachowanie, gdy jego stan wewnętrzny ulega zmianie
+    Strategy (Strategia): Definiuje rodzinę algorytmów i sprawia, że są one wymienne, umożliwiając zmianę algorytmu w trakcie działania

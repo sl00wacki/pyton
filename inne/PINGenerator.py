@@ -23,5 +23,5 @@ if __name__ == "__main__":
     czyzLiterami = czy.lower() == "true"
     czy = input("Czy zapisac kod w pliku?\nTrue - tak, False - nie\n")
     if czy=="True":
-        with open("pliki/kod.txt", 'w', encoding='utf-8') as plik:
+        with open("pliki/kod.txt", 'w') as plik:
             plik.write(g.generator(dlugosc, czyzLiterami))

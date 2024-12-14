@@ -1,0 +1,9 @@
+Metodyki zarządzania projektami to zestaw praktyk i narzędzi, które pomagają efektywnie realizować projekty. Oto najpopularniejsze z nich:
+
+    Waterfall: Klasyczna metoda z etapami (analiza, realizacja), stosowana w projektach budowlanych i o precyzyjnych wymaganiach.
+    Agile: Elastyczna metoda realizacji projektów w krótkich iteracjach, idealna w IT i zmieniających się projektach.
+    Scrum: Wersja Agile, używana głównie w tworzeniu oprogramowania, z dodatkowymi spotkaniami (sprinty).
+    Kanban: Używana do zarządzania przepływem pracy, szczególnie w produkcji i IT.
+    PRINCE2: Uniwersalna metoda, sprawdzająca się w różnych branżach, szczególnie w dużych projektach wymagających precyzyjnego planowania.
+
+Wybór metodyki zależy od rodzaju projektu i jego wymagań. Często można łączyć elementy różnych metod.
