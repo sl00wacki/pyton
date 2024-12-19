@@ -1,0 +1,70 @@
+1. Autorskie prawa osobiste i majątkowe
+
+    Prawa osobiste:
+        Są niezbywalne, co oznacza, że autor zawsze będzie uznawany za twórcę danego utworu (np. programu, kodu źródłowego).
+        Gwarantują autorowi prawo do nadzoru nad sposobem korzystania z utworu (np. prawo do oznaczenia nazwiskiem lub pseudonimem).
+        Przykład: Jan Kowalski zawsze pozostanie uznawany za autora stworzonego programu, nawet jeśli sprzeda prawa majątkowe do jego wykorzystania.
+
+    Prawa majątkowe:
+        Są zbywalne i mogą być przekazywane innym podmiotom (np. poprzez sprzedaż, licencję lub dziedziczenie).
+        Obejmują prawo do korzystania z utworu w celach zarobkowych i jego rozpowszechniania (np. sprzedaż oprogramowania).
+        Przykład: Firma zatrudniająca programistę może nabyć prawa majątkowe do kodu, który napisał pracownik w ramach swojej pracy.
+
+2. Czas trwania praw autorskich
+
+    Zasady ogólne:
+        Prawa autorskie majątkowe trwają przez całe życie autora oraz przez określony czas po jego śmierci (zwykle 70 lat, w zależności od przepisów prawa danego kraju).
+        Prawa osobiste nie wygasają nigdy, co oznacza, że autor zawsze pozostanie związany z utworem.
+
+    Kontekst w programowaniu:
+        Kod źródłowy jest chroniony jako utwór literacki, więc czas ochrony zależy od przepisów prawa autorskiego.
+        Po wygaśnięciu praw majątkowych utwór staje się własnością publiczną (można go używać bez ograniczeń).
+
+3. Konsekwencje naruszenia prawa autorskiego
+
+    Kary finansowe:
+        Osoby naruszające prawa autorskie mogą zostać zobowiązane do zapłaty odszkodowania lub grzywny.
+        Wysokość odszkodowania może zależeć od wartości rynkowej utworu oraz rozmiaru naruszenia.
+
+    Kary karne:
+        W niektórych przypadkach naruszenie praw autorskich może prowadzić do odpowiedzialności karnej (np. pozbawienie wolności).
+        Przykład: Dystrybucja pirackiego oprogramowania.
+
+    Przykłady naruszeń:
+        Kopiowanie i używanie fragmentów kodu źródłowego bez zgody autora.
+        Modyfikowanie oprogramowania chronionego prawem autorskim i rozpowszechnianie jako własne.
+
+4. Elementy własności intelektualnej (dobra niematerialne, własności przemysłowe)
+
+    Prawa autorskie:
+        Chronią utwory, które mają indywidualny i twórczy charakter (np. kod źródłowy, algorytmy, dokumentacja techniczna).
+
+    Patenty:
+        Obejmują wynalazki techniczne, w tym pewne aspekty oprogramowania (np. innowacyjne algorytmy lub rozwiązania techniczne).
+        Nie każde oprogramowanie może zostać opatentowane – musi spełniać określone kryteria (np. nowość, praktyczne zastosowanie).
+
+    Znaki towarowe:
+        Chronią nazwy, logotypy lub inne elementy graficzne związane z produktem (np. logo programu, nazwa aplikacji).
+
+    Dobra niematerialne:
+        Obejmują wszelkie wartości intelektualne, które nie mają fizycznej formy (np. know-how, dokumentacja techniczna).
+
+5. Typy licencji oprogramowania
+
+    Licencje otwartoźródłowe (open-source):
+        GPL (General Public License):
+            Kod można modyfikować i rozpowszechniać, ale zmodyfikowany kod musi być również udostępniany na tych samych zasadach.
+        MIT License:
+            Umożliwia dowolne użycie, modyfikację i rozpowszechnianie, z zastrzeżeniem zachowania informacji o autorze.
+        Apache License:
+            Pozwala na szerokie wykorzystanie kodu, z opcją dodania patentów do programu.
+
+    Licencje komercyjne:
+        Kod jest własnością producenta, a użytkownicy otrzymują ograniczone prawo do korzystania z oprogramowania.
+        Przykład: Microsoft Windows, Adobe Photoshop.
+
+    Licencje freemium:
+        Podstawowa wersja programu jest dostępna za darmo, ale dodatkowe funkcje wymagają opłaty.
+
+    Licencje Creative Commons:
+        Używane głównie do materiałów edukacyjnych, ale stosowane również w przypadku oprogramowania.
