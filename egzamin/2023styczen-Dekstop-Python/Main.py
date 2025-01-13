@@ -30,6 +30,13 @@ class Ui(QtWidgets.QMainWindow):
 
         self.show()
 
+    # **********************************************
+    # nazwa funkcji: check_price
+    # opis funkcji: Funkcja sprawdza cenę na podstawie wybranego typu przesyłki i wyświetla ją w odpowiednich polach.
+    # parametry: brak
+    # zwracany typ i opis: brak – funkcja wykonuje akcje bez zwracania wartości.
+    # autor: <numer zdającego>
+    # **********************************************
     def check_price(self):
         parcels = {
             "Pocztówka": ["1 zł", "pocztowka.png"],
@@ -49,6 +56,13 @@ class Ui(QtWidgets.QMainWindow):
             self.label_price.setText(f"Cena: {price}")
             self.label_img.setPixmap(QPixmap(image))
 
+    # **********************************************
+    # nazwa funkcji: check_address
+    # opis funkcji: Funkcja sprawdza poprawność wpisanego kodu pocztowego, wyświetlając odpowiedni komunikat użytkownikowi.
+    # parametry: brak
+    # zwracany typ i opis: brak – funkcja wykonuje akcje bez zwracania wartości.
+    # autor: <numer zdającego>
+    # **********************************************
     def check_address(self):
         postal_code = self.input_postal_code.text()
         msg = "Dane przesyłki zostały wprowadzone"
